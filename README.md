@@ -11,7 +11,7 @@ Publisher's [web page for this book](http://shop.oreilly.com/product/06369200370
 
 | Directory or file (in root) | Explanation |
 | --- | --- |
-| aa | - |
+| dataviz-with-python-and-js-master/ | [Chapter1] Latest version of GitHub repo, on 9/5/2019 |
 | bb | - |
 | cc | - |
 | dd | - |
@@ -23,7 +23,7 @@ Publisher's [web page for this book](http://shop.oreilly.com/product/06369200370
 
 ## Part I. Basic ToolKit
 
-### 02. A Language-Learning Bridge Between Python and JavaScript *[P.11-54]*
+### 02. A Language-Learning Bridge Between Python and JavaScript *[P.11-55]*
 
 ### 03.
 
