@@ -11,10 +11,7 @@ Publisher's [web page for this book](http://shop.oreilly.com/product/06369200370
 
 | Directory or file (in root) | Explanation |
 | --- | --- |
-| dataviz-with-python-and-js-master/ | [Chapter1] Latest version of GitHub repo, on 9/5/2019 |
-| bb | - |
-| cc | - |
-| dd | - |
+| dataviz-with-python-and-js-master/ | [Chapter1] Latest version of author's GitHub repo, on 9/5/2019 |
 | README.md | This document |
 
 ---
@@ -57,10 +54,16 @@ Publisher's [web page for this book](http://shop.oreilly.com/product/06369200370
 ### 13.
 
 
-## Part 5. Visualizing YOur Data with D3
+## Part 5. Visualizing Your Data with D3
 
-### 14.
-### 15.
+### 14. Imagining a Nobel Visualization *[P.361-370]*
+
+Summary : *"In this chapter, we imagined our Nobel visualization, establishing a minimal set of visual elements necessary to tell the key stories discovered during our explorations of the last chapter"*
+
+
+### 15. Building a Visualization *[P.371-397]*
+
+
 ### 16.
 ### 17.
 ### 18.
