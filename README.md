@@ -63,6 +63,8 @@ Summary : *"In this chapter, we imagined our Nobel visualization, establishing a
 
 ### 15. Building a Visualization *[P.371-397]*
 
+Summary : *"In this chapter, we sketched out how to implement the visualization we imagined in Chapter 14. The backbone was assembled from HTML, CSS, and JavaScript building blocks and the data feed to the app and data flow within it described"*
+
 
 ### 16.
 ### 17.
