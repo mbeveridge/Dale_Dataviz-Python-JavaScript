@@ -22,6 +22,8 @@ Publisher's [web page for this book](http://shop.oreilly.com/product/06369200370
 
 ### 02. A Language-Learning Bridge Between Python and JavaScript *[P.11-55]*
 
+*P.51-54 : "A Cheat Sheet" : "a set of cheat sheets to translate basic operations between Python and JavaScript"*
+
 Summary : *"most common idioms and patterns from one of the languages can be expressed in the other without too much fuss. The meat and potatoes of programming, iteration, conditionals, and basic data manipulation is simple in both languages, and the translation of functions is straightforward"*
 
 
