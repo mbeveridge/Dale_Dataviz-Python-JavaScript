@@ -27,7 +27,10 @@ Publisher's [web page for this book](http://shop.oreilly.com/product/06369200370
 Summary : *"most common idioms and patterns from one of the languages can be expressed in the other without too much fuss. The meat and potatoes of programming, iteration, conditionals, and basic data manipulation is simple in both languages, and the translation of functions is straightforward"*
 
 
-### 03.
+### 03. Reading and Writing Data with Python *[P.57-84]*
+
+Summary : *"This chapter aimed to make you comfortable using Python to move data around the various file formats and databases that a data visualizer might expect to bump into ... [Y]ou should now be comfortable with basic reading and writing for the large majority of dataviz use cases."*
+
 
 ### 04.
 
