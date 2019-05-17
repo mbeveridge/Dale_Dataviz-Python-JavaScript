@@ -34,6 +34,10 @@ Summary : *"This chapter aimed to make you comfortable using Python to move data
 
 ### 04. Webdev 101 *[P.85-123]*
 
+Primer in SVG : P.107-122
+
+Summary : *""*
+
 
 ## Part II. Getting Your Data
 
