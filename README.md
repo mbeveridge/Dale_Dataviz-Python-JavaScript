@@ -34,9 +34,9 @@ Summary : *"This chapter aimed to make you comfortable using Python to move data
 
 ### 04. Webdev 101 *[P.85-123]*
 
-Primer in SVG : P.107-122
+*Primer in SVG : P.107-122*
 
-Summary : *""*
+Summary : *"This chapter provided a basic set of modern web-development skills for the budding data visualizer. ... We also covered Chrome’s Elements and Sources tabs, which are the key browser development tools. Finally we had a little primer in SVG."*
 
 
 ## Part II. Getting Your Data
