@@ -18,7 +18,7 @@ Publisher's [web page for this book](http://shop.oreilly.com/product/06369200370
 
 ### 01. Development Setup *[P.1-8]*
 
-## Part I. Basic ToolKit
+## Part I. Basic ToolKit *[P.9-123]*
 
 ### 02. A Language-Learning Bridge Between Python and JavaScript *[P.11-55]*
 
@@ -39,14 +39,17 @@ Summary : *"This chapter aimed to make you comfortable using Python to move data
 Summary : *"This chapter provided a basic set of modern web-development skills for the budding data visualizer. ... We also covered Chrome’s Elements and Sources tabs, which are the key browser development tools. Finally we had a little primer in SVG."*
 
 
-## Part II. Getting Your Data
+## Part II. Getting Your Data *[P.125-190]*
 
-### 05.
+### 05. Getting Data off the Web with Python *[P.127-156]*
 
-### 06.
+Summary : *""*
 
 
-## Part III. Cleaning and Exploring Data with Pandas
+### 06. *[P.-190]*
+
+
+## Part III. Cleaning and Exploring Data with Pandas *[P.191-]*
 
 ### 07.
 
