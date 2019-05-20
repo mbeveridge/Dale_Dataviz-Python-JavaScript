@@ -43,7 +43,7 @@ Summary : *"This chapter provided a basic set of modern web-development skills f
 
 ### 05. Getting Data off the Web with Python *[P.127-156]*
 
-Summary : *""*
+Summary : *"In this chapter, we’ve seen examples of the most common ways in which data can be sucked out of the Web and into Python containers, databases, or Pandas datasets. Python’s `requests` library is the true workhorse ... For the more awkward APIs, such as those with potentially complicated authorization, a wrapper library like `Tweepy` (for Twitter) can save a lot of hassle. ... We also started our first forays into data scraping"*
 
 
 ### 06. *[P.-190]*
