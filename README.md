@@ -54,7 +54,7 @@ Summary : *"In this chapter we produced two Scrapy spiders ... Although the work
 
 ## Part III. Cleaning and Exploring Data with Pandas *[P.191-]*
 
-### 07.
+### 07. Introduction to NumPy *[P.193-202]*
 
 ### 08.
 
