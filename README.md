@@ -48,7 +48,7 @@ Summary : *"In this chapter, we’ve seen examples of the most common ways in wh
 
 ### 06. Heavyweight Scraping with Scrapy *[P.157-190]*
 
-Summary : *"In this chapter we produced two Scrapy spiders ... Although the workflow requires more effort to implement than doing some hacking with BeautifulSoup, Scrapy has far more power and comes into its own as your scraping ambitions increase"*
+Summary : *"In this chapter we produced two `Scrapy` spiders ... Although the workflow requires more effort to implement than doing some hacking with `BeautifulSoup`, Scrapy has far more power and comes into its own as your scraping ambitions increase"*
 
 
 
