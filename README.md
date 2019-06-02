@@ -59,7 +59,12 @@ Summary : *"In this chapter we produced two `Scrapy` spiders ... Although the wo
 Summary : *"This chapter laid the foundations of NumPy, focusing on its building block, the NumPy array or `ndarray` ... Although Pandas hides its NumPy arrays behind data containers such as its `DataFrame` and `Series`, which are adapted to deal with heterogeneous data, these containers behave for the most part like NumPy arrays ... Now that we’ve got its building blocks in place, let’s see how Pandas extends the homogeneous NumPy array into the realm of heterogeneous data, where much of data visualization work takes place"*
 
 
-### 08.
+### 08. Introduction to Pandas *[P.203-222]*
+
+* P.203 : *"There are certainly visualizations, like network graphs, for which row-columnar data is not the best form, but they are in the minority"*
+
+Summary :
+
 
 ### 09.
 
