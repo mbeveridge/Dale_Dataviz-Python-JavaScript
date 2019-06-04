@@ -66,7 +66,7 @@ Summary : *"This chapter laid the foundations of NumPy, focusing on its building
 Summary : *"The core concepts of Pandas —the `DataFrame`, `Index`, and `Series` — were discussed and we saw why Pandas is such a good fit with the type of real-world data that data visualizers deal with, extending the NumPy `ndarray` by allowing the storage of heterogeneous data and adding a powerful indexing system."*
 
 
-### 09.
+### 09. Cleaning Data with Pandas *[P.223-253]*
 
 ### 10.
 
