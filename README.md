@@ -68,6 +68,9 @@ Summary : *"The core concepts of Pandas —the `DataFrame`, `Index`, and `Series
 
 ### 09. Cleaning Data with Pandas *[P.223-253]*
 
+Summary : *"In this chapter, you learned how to clean a fairly messy dataset ... [A] number of new Pandas methods and techniques were introduced to extend the last chapter’s introduction to basic Pandas"*
+
+
 ### 10.
 
 ### 11.
