@@ -20,21 +20,21 @@ Publisher's [web page for this book](http://shop.oreilly.com/product/06369200370
 
 ## Part I. Basic ToolKit *[P.9-123]*
 
-### 02. A Language-Learning Bridge Between Python and JavaScript *[P.11-55]*
+### 02. A Language-learning Bridge between Python & JavaScript *[P.11-55]*
 
 *P.51-54 : "A Cheat Sheet" : "a set of cheat sheets to translate basic operations between Python and JavaScript"*
 
 Summary : *"most common idioms and patterns from one of the languages can be expressed in the other without too much fuss. The meat and potatoes of programming, iteration, conditionals, and basic data manipulation is simple in both languages, and the translation of functions is straightforward"*
 
 
-### 03. Reading and Writing Data with Python *[P.57-84]*
+### 03. Reading & Writing Data with Python *[P.57-84]*
 
 Summary : *"This chapter aimed to make you comfortable using Python to move data around the various file formats and databases that a data visualizer might expect to bump into ... [Y]ou should now be comfortable with basic reading and writing for the large majority of dataviz use cases."*
 
 
 ### 04. Webdev 101 *[P.85-123]*
 
-*Primer in SVG : P.107-122*
+* P.107-122 : *Primer in SVG*
 
 Summary : *"This chapter provided a basic set of modern web-development skills for the budding data visualizer. ... We also covered Chrome’s Elements and Sources tabs, which are the key browser development tools. Finally we had a little primer in SVG."*
 
