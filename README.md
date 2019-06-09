@@ -72,10 +72,15 @@ Summary : *"The core concepts of Pandas —the `DataFrame`, `Index`, and `Series
 * P.225-228 : *"`DataFrame` has a number of methods and properties that give a quick overview of the data" : `info`, `describe`, `head`, `tail`*
 * P.229-233 : *Recap of basic Pandas data selection*
 
+P245, 246 TO READ
+
 Summary : *"In this chapter, you learned how to clean a fairly messy dataset ... [A] number of new Pandas methods and techniques were introduced to extend the last chapter’s introduction to basic Pandas"*
 
 
-### 10.
+### 10. Visualizing Data with Matplotlib *[P.255-284]*
+
+
+
 
 ### 11.
 
