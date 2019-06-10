@@ -79,7 +79,7 @@ Summary : *"In this chapter, you learned how to clean a fairly messy dataset ...
 
 ### 10. Visualizing Data with Matplotlib *[P.255-284]*
 
-
+Summary : *"This chapter introduced Matplotlib, Python’s plotting powerhouse. It’s a big, mature library with lots of documentation and an active community ... We saw how Seaborn extends Matplotlib with some useful statistical methods and that it has what many consider to be superior aesthetics"*
 
 
 ### 11.
