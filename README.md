@@ -62,6 +62,7 @@ Summary : *"This chapter laid the foundations of NumPy, focusing on its building
 ### 08. Introduction to Pandas *[P.203-222]*
 
 * P.203 : *"There are certainly visualizations, like network graphs, for which row-columnar data is not the best form, but they are in the minority"*
+* P.207-208 : *"There are three ways to select a row from the `DataFrame` ... `ix` is a convenient method, but there is scope for confusion when it’s used with integer axes. If in doubt, it’s best to be explicit and use either `loc` or `iloc`"*
 * P.220 (and others) : *shows use of backslash `\`, which is (one way) to wrap long lines in Python*
 
 Summary : *"The core concepts of Pandas —the `DataFrame`, `Index`, and `Series` — were discussed and we saw why Pandas is such a good fit with the type of real-world data that data visualizers deal with, extending the NumPy `ndarray` by allowing the storage of heterogeneous data and adding a powerful indexing system."*
@@ -71,8 +72,7 @@ Summary : *"The core concepts of Pandas —the `DataFrame`, `Index`, and `Series
 
 * P.225-228 : *"`DataFrame` has a number of methods and properties that give a quick overview of the data" : `info`, `describe`, `head`, `tail`*
 * P.229-233 : *Recap of basic Pandas data selection*
-
-P245, 246 TO READ
+* P.241 : *"[T]o change the `country` field of a row ... best practice, which is to use the `ix` (or the more specific `loc` and `iloc`) method" : ` df.ix[709, 'country'] = 'France'` not `df['country'][709] = 'France'`*
 
 Summary : *"In this chapter, you learned how to clean a fairly messy dataset ... [A] number of new Pandas methods and techniques were introduced to extend the last chapter’s introduction to basic Pandas"*
 
