@@ -84,6 +84,9 @@ Summary : *"This chapter introduced Matplotlib, Python’s plotting powerhouse. 
 
 ### 11. Exploring Data with Pandas *[P.285-317]*
 
+Summary : *"In this chapter, we explored our Nobel Prize dataset ... We used a fair number of Matplotlib (by way of Pandas) and Seaborn’s plots ... We found more than enough stories in the data to suggest a web visualization. In the next chapter we will imagine and design just such a Nobel Prize winner visualization, cherry-picking the nuggets gained in this chapter"*
+
+
 
 ## Part IV. Delivering the Data
 
