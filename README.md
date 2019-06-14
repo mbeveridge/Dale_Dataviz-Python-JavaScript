@@ -52,7 +52,7 @@ Summary : *"In this chapter we produced two `Scrapy` spiders ... Although the wo
 
 
 
-## Part III. Cleaning and Exploring Data with Pandas *[P.191-]*
+## Part III. Cleaning and Exploring Data with Pandas *[P.191-317]*
 
 ### 07. Introduction to NumPy *[P.193-202]*
 
@@ -88,9 +88,12 @@ Summary : *"In this chapter, we explored our Nobel Prize dataset ... We used a f
 
 
 
-## Part IV. Delivering the Data
+## Part IV. Delivering the Data *[P.319-]*
 
-### 12.
+### 12. Delivering the Data *[P.321-]*
+
+* P.322 : *"A good rule of thumb is to aim to do as much data manipulation as possible with Python - it’s much less painful than equivalent operations in JavaScript. Following from this, the data delivered should be as close as possible to the form it will be consumed in (ie. for D3 this will usually be a JSON array of objects"*
+
 
 ### 13.
 
