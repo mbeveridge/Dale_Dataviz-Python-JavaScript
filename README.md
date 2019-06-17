@@ -90,9 +90,11 @@ Summary : *"In this chapter, we explored our Nobel Prize dataset ... We used a f
 
 ## Part IV. Delivering the Data *[P.319-]*
 
-### 12. Delivering the Data *[P.321-]*
+### 12. Delivering the Data *[P.321-337]*
 
 * P.322 : *"A good rule of thumb is to aim to do as much data manipulation as possible with Python - it’s much less painful than equivalent operations in JavaScript. Following from this, the data delivered should be as close as possible to the form it will be consumed in (ie. for D3 this will usually be a JSON array of objects"*
+
+Summary : *"This chapter explained the rudiments of static data delivery of files on the web server, and dynamic delivery of data, sketching the basis of a simple Flask-based RESTful web server"*
 
 
 ### 13.
