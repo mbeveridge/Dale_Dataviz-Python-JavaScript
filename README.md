@@ -99,10 +99,10 @@ Summary : *"In this chapter, we explored our Nobel Prize dataset ... We used a f
 Summary : *"This chapter explained the rudiments of static data delivery of files on the web server, and dynamic delivery of data, sketching the basis of a simple Flask-based RESTful web server"*
 
 
-### 13.
+### 13. RESTful Data with Flask *[P.339-357]*
 
 
-## Part 5. Visualizing Your Data with D3
+## Part 5. Visualizing Your Data with D3 *[P.359-]*
 
 ### 14. Imagining a Nobel Visualization *[P.361-370]*
 
