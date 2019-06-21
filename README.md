@@ -101,6 +101,8 @@ Summary : *"This chapter explained the rudiments of static data delivery of file
 
 ### 13. RESTful Data with Flask *[P.339-357]*
 
+Summary : *"This chapter showed how Python and Flask can combine with ease to deliver your data to the web browser with a flexible, RESTful API ... [B]eing able to negotiate fine-grained access to a server-side database extends the realm of web dataviz enormously ... We also saw how we’ll use Flask Eve to deliver the winners’ data ... In the next chapter we’ll see how that data is used"*
+
 
 ## Part 5. Visualizing Your Data with D3 *[P.359-]*
 
